@@ -2,11 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="67b73b98-e0fd-4e3c-98e7-94daa2183e80" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/task.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/www.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/www.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/examples.php" beforeDir="false" afterPath="$PROJECT_DIR$/examples.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testfile.txt" beforeDir="false" afterPath="$PROJECT_DIR$/testfile.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,6 +39,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="CSS File" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -50,16 +54,19 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="PluginDummyText.Genre" value="esoteric" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../www2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../bootstrap" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="settings.editor.selected.configurable" value="editor.preferences.completion" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\www" />
       <recent name="C:\xampp\htdocs\www\validation-form" />
     </key>
   </component>
@@ -79,7 +86,12 @@
       <workItem from="1584401769552" duration="107000" />
       <workItem from="1584434286623" duration="10796000" />
       <workItem from="1584477550315" duration="11019000" />
-      <workItem from="1584535671029" duration="11966000" />
+      <workItem from="1584535671029" duration="22501000" />
+      <workItem from="1584632451080" duration="2772000" />
+      <workItem from="1584718099498" duration="15008000" />
+      <workItem from="1584735791111" duration="461000" />
+      <workItem from="1584736265073" duration="1307000" />
+      <workItem from="1584809636686" duration="9871000" />
     </task>
     <servers />
   </component>
@@ -100,9 +112,9 @@
     </option>
   </component>
   <component name="WindowStateProjectService">
-    <state x="590" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1584559725305">
+    <state x="590" y="299" key="com.intellij.ide.util.TipDialog" timestamp="1584821303974">
       <screen x="0" y="0" width="1920" height="1036" />
     </state>
-    <state x="590" y="299" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1584559725305" />
+    <state x="590" y="299" key="com.intellij.ide.util.TipDialog/0.0.1920.1036@0.0.1920.1036" timestamp="1584821303974" />
   </component>
 </project>

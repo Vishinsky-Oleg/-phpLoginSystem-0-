@@ -10,10 +10,6 @@
 <body>
 <div class="container mt-4">
     <?php
-    foreach ($_COOKIE as $item => $value){
-        echo "$item = $value";
-        echo "<br>";
-    }
     if($_COOKIE['user'] == ''):
     ?>
     <div class="row">
@@ -37,7 +33,6 @@
     </div>
     <?php else:?>
         <p>Hello <?=$_COOKIE['user']?>. To exit press <a href="/www/exit.php">here</a>.</p>
-
     <?php endif;?>
 
 </div>

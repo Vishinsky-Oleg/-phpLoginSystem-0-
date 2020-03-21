@@ -6,5 +6,7 @@
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="www1" />
     <orderEntry type="module" module-name="www2" />
+    <orderEntry type="module" module-name="blog_project" />
+    <orderEntry type="module" module-name="bootstrap" />
   </component>
 </module>

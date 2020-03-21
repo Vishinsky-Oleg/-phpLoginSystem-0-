@@ -41,7 +41,7 @@
  function getSum(...$nums) { // ... creating an array of values
      $sum = 0;
      foreach ($nums as $num) {
-         $sum += $sum;
+         $sum += $num;
          }
      return $sum;
  }
@@ -102,7 +102,9 @@
  $d = array_map(null, $a, $b, $c);
  print_r($d);
  //--------------------------------------------------------
- function callback($k, $v) { ... }// I was miffed that array_map didn't have a way to pass values
+ function callback($k, $v) {
+     echo "$k and $v";
+ }// I was miffed that array_map didn't have a way to pass values
  // *and* keys to the callback, but then I realized I could do this:
  array_map( "callback", array_keys($array), $array);
  //--------------------------------------------------------
@@ -114,7 +116,7 @@
      return $x;
  }
  $num = array_reduce($array, 'multiply', 1);
- print_r($num)
+ print_r($num);
 
 // array_filter()
 function arrayFilter($x) {
@@ -123,6 +125,10 @@ function arrayFilter($x) {
     $list = [1,2,3,4,5,6,7,8,9,10];
     $even = array_filter($list, 'arrayFilter');
     print_r($even)
+
+
+
+
 
 
 

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/../blog_project/.idea/blog_project.iml" filepath="$PROJECT_DIR$/../blog_project/.idea/blog_project.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../bootstrap/.idea/bootstrap.iml" filepath="$PROJECT_DIR$/../bootstrap/.idea/bootstrap.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/www.iml" filepath="$PROJECT_DIR$/.idea/www.iml" />
       <module fileurl="file://$PROJECT_DIR$/../www1/.idea/www1.iml" filepath="$PROJECT_DIR$/../www1/.idea/www1.iml" />
       <module fileurl="file://$PROJECT_DIR$/../www2/.idea/www2.iml" filepath="$PROJECT_DIR$/../www2/.idea/www2.iml" />
